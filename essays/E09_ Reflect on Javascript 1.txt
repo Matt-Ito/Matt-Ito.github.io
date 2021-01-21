@@ -1,16 +1,8 @@
 ﻿Matthew Ito
 
-
-ICS 314
-
-
-Professor Moore
-
-
 January 21, 2021
 
-
-Is Javascript Java’s Cooler Younger Brother?
+                                                               Is Javascript Java’s Cooler Younger Brother?
 
 
         When I first heard about and began to study Javascript, I immediately thought, “This should be easy, obviously Javascript should be just like Java, and since I have a couple years worth of experience, I should be able to understand everything about Javascript in no time!”. However, I was very wrong. Comparing it to other programming languages I know, it is somewhat similar to Java, but it is not exactly the same. As we can tell by the names, Java is an object-oriented language, but Javascript is a scripted object-oriented language. This means that Javascript does not need to be compiled before running, unlike Java or C. Another difference between the two is that Java is static and Javascript is dynamic. This makes sense since, as we know, Java needs to be compiled before running, therefore, it is a static programming language. Javascript, however, can run without being compiled, which means it is a dynamic programming language. 
