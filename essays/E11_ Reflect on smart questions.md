@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Why we should ask smart questions
+title: Why We Should Ask Smart Questions
 date: 2021-01-28
 labels: 
     -Questions
