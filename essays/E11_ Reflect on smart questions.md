@@ -1,50 +1,14 @@
-Matthew Ito Professor Moore ICS 314 January 28, 2020 Why we should ask
-smart questions Throughout my programming career, I have asked more
-questions than I can count. Whether it was to my teachers, classmates,
-or even the internet, I needed to ask for at least a little bit of help
-when I would get stuck on a task. According to Raymond’s essay “How To
-Ask Questions The Smart Way”, there are certain steps and precautions
-that need to be taken in order to be taken seriously and receive an
-efficient answer to your problem. For example, it is unwise to just ask
-for the solution to the problem you are stuck on without doing at least
-a decent amount of research yourself. Based on how you ask your
-question, experts will know if you have done any learning on your own or
-have attempted to understand the material you are stuck on. Furthermore,
-how your format and title your question are important as well. Questions
-with titles containing buzzwords such as “HELP!” show that you should
-not be taken seriously, since you must resort to displays of
-hopelessness in order to get attention to your question. Formatting your
-question in a way that makes it hard to understand or read will also
-make it undesirable for experts to answer. When doing some brief
-research on smart/dumb questions on StackOverflow, I found a perfect
-example of a bad question. The title reads, “Debugging a c++ function”,
-which is way too vague of a question to get a proper answer. Moreover,
-it is apparent that the user wants a quick answer rather than to be able
-to understand the concept of the function. This is apparent as the user
-pasted the entire 100 lines of code and asked experts to find the line
-where there is a bug. Another user replied that to answer this question
-would be the same as doing their homework for them, which shows us
-another example of why this is not a valid question. However, while
-doing my research on StackOverflow, I also found an excellent example of
-a smart question. The title of the question reads, “How can I pair socks
-from a pile efficiently?”, which acts like a hook to grab the experts’
-attention. The user then proceeds to talk about how they were wondering
-what kind of algorithm would be best to pair up socks after the laundry
-the most efficiently. The question contains a lot of information and
-demonstrates that the user does have some experience in algorithms,
-since they asked if this problem is similar to elemental distinctness.
-This question gathered a lot of positive attention and compliments from
-users, who worked together to solve the problem. Looking at these two
-problems, it is obvious that the author of one of them did not spend too
-much time trying to think on their own, while the other did and thus,
-had even more questions to build on other than his initial query. It is
-also apparent that the author of the smart question formatted their
-question very well, something they probably had to learn through many
-years of programming. Overall, it is obvious that smart questions and
-asking them in a courteous and thoughtful manner yields more positive
-and better results than thoughtless questions which are interpreted as a
-waste of time.\
-Bad question:
-https://stackoverflow.com/questions/65942104/debugging-a-c-function Good
-question:
-https://stackoverflow.com/questions/14415881/how-can-i-pair-socks-from-a-pile-efficiently
+---
+layout: essay
+type: essay
+title: Why we should ask smart questions
+date: 2021-01-28
+labels: 
+    -Questions
+---
+
+Throughout my programming career, I have asked more questions than I can count. Whether it was to my teachers, classmates, or even the internet, I needed to ask for at least a little bit of help when I would get stuck on a task. According to Raymond’s essay “How To Ask Questions The Smart Way”, there are certain steps and precautions that need to be taken in order to be taken seriously and receive an efficient answer to your problem. For example, it is unwise to just ask for the solution to the problem you are stuck on without doing at least a decent amount of research yourself. Based on how you ask your question, experts will know if you have done any learning on your own or have attempted to understand the material you are stuck on. Furthermore, how your format and title your question are important as well. Questions with titles containing buzzwords such as “HELP!” show that you should not be taken seriously, since you must resort to displays of hopelessness in order to get attention to your question. Formatting your question in a way that makes it hard to understand or read will also make it undesirable for experts to answer. When doing some brief research on smart/dumb questions on StackOverflow, I found a perfect example of a bad question. The title reads, “Debugging a c++ function”, which is way too vague of a question to get a proper answer. Moreover, it is apparent that the user wants a quick answer rather than to be able to understand the concept of the function. This is apparent as the user pasted the entire 100 lines of code and asked experts to find the line where there is a bug. Another user replied that to answer this question would be the same as doing their homework for them, which shows us another example of why this is not a valid question. However, while doing my research on StackOverflow, I also found an excellent example of a smart question. The title of the question reads, “How can I pair socks from a pile efficiently?”, which acts like a hook to grab the experts’ attention. The user then proceeds to talk about how they were wondering what kind of algorithm would be best to pair up socks after the laundry the most efficiently. The question contains a lot of information and demonstrates that the user does have some experience in algorithms, since they asked if this problem is similar to elemental distinctness. This question gathered a lot of positive attention and compliments from users, who worked together to solve the problem. Looking at these two problems, it is obvious that the author of one of them did not spend too much time trying to think on their own, while the other did and thus, had even more questions to build on other than his initial query. It is also apparent that the author of the smart question formatted their question very well, something they probably had to learn through many years of programming. Overall, it is obvious that smart questions and asking them in a courteous and thoughtful manner yields more positive and better results than thoughtless questions which are interpreted as a waste of time.\
+[Bad question]
+(https://stackoverflow.com/questions/65942104/debugging-a-c-function) 
+[Good question]
+(https://stackoverflow.com/questions/14415881/how-can-i-pair-socks-from-a-pile-efficiently)
